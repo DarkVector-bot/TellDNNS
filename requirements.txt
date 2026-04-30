@@ -1,0 +1,16 @@
+# TellDNS Dependencies
+
+# Core dependencies
+aiohttp>=3.8.0
+dnspython>=2.3.0
+
+# Optional (for AI features)
+scikit-learn>=1.2.0
+numpy>=1.24.0
+
+# Config files
+pyyaml>=6.0
+
+# Testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
